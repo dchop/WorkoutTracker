@@ -1,7 +1,10 @@
 # WorkoutTracker
-Login Screen            |  Chat Screen            |  Chat Screen
-:-------------------------:|:-------------------------: |:-------------------------:
-![](https://github.com/dchop/RealTimeChatApp/blob/master/client/src/icons/loginScreen.png)  |  ![](https://github.com/dchop/RealTimeChatApp/blob/master/client/src/icons/chatScreen.png) |  ![](https://github.com/dchop/RealTimeChatApp/blob/master/client/src/icons/chatScreen.png)
+Exercise Log Screen          |  Create Exercise Log Screen
+:-------------------------:|:-------------------------: 
+![](https://github.com/dchop/WorkoutTracker/blob/main/frontend/icons/ExerciseLog.png)  |  ![](https://github.com/dchop/WorkoutTracker/blob/main/frontend/icons/CreateExerciseLog.png) 
+Create User Screen
+:-------------------------:
+![](https://github.com/dchop/WorkoutTracker/blob/main/frontend/icons/CreateUser.png)
 <!-- ![alt text](https://github.com/dchop/RealTimeChatApp/blob/master/client/src/icons/loginScreen.png)
 ![alt text](https://github.com/dchop/RealTimeChatApp/blob/master/client/src/icons/chatScreen.png) -->
 Workout Tracker web application using the MERN stack. Users are able to log their daily exercises. Once logged, users are also able to delete/edit the logs. 
